@@ -1,0 +1,14 @@
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\bin\Release\Quasonix TX controller.exe.config
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\bin\Release\Quasonix TX controller.exe
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\bin\Release\Quasonix TX controller.pdb
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Release\Quasonix_TX_controller.AboutForm.resources
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Release\Quasonix_TX_controller.Form1.resources
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Release\Quasonix_TX_controller.passwd.resources
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Release\Quasonix_TX_controller.Properties.Resources.resources
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Release\Quasonix TX controller.csproj.GenerateResource.Cache
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Release\Quasonix TX controller.exe
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Release\Quasonix TX controller.pdb
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Release\Quasonix TX controller.csprojResolveAssemblyReference.cache
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\bin\Release\Bulb.exe
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\bin\Release\Bulb.pdb
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\bin\Release\freqs.conf

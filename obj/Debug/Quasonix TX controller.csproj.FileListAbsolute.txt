@@ -1,0 +1,11 @@
+c:\users\gs\documents\visual studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\bin\Debug\Quasonix TX controller.exe.config
+c:\users\gs\documents\visual studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\bin\Debug\Quasonix TX controller.exe
+c:\users\gs\documents\visual studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\bin\Debug\Quasonix TX controller.pdb
+c:\users\gs\documents\visual studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Debug\Quasonix_TX_controller.Form1.resources
+c:\users\gs\documents\visual studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Debug\Quasonix_TX_controller.Properties.Resources.resources
+c:\users\gs\documents\visual studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Debug\Quasonix TX controller.csproj.GenerateResource.Cache
+c:\users\gs\documents\visual studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Debug\Quasonix TX controller.exe
+c:\users\gs\documents\visual studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Debug\Quasonix TX controller.pdb
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Debug\Quasonix_TX_controller.passwd.resources
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Debug\Quasonix TX controller.csprojResolveAssemblyReference.cache
+C:\Users\GS\Documents\Visual Studio 2012\Projects\Quasonix TX controller\Quasonix TX controller\obj\Debug\Quasonix_TX_controller.AboutForm.resources
